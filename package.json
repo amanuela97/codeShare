@@ -43,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://env-3746005.jelastic.metropolia.fi/"
+  "proxy": "https://env-3746005.jelastic.metropolia.fi/graphql"
 }

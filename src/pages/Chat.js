@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container} from "shards-react";
+//import { Container} from "shards-react";
 /*import { AuthContext } from '../context/auth';
 import { POST_MESSAGE } from '../utils/graphql.js';
 import { useMutation } from '@apollo/react-hooks';
@@ -12,9 +12,9 @@ const Chat = () => {
   
 
   return (
-    <Container style={{marginTop: 500}}>
-      
-    </Container>
+    <div style={{marginTop: 500}}>
+      <h1>hi</h1>
+    </div>
   );
 }
 

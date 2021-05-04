@@ -13,7 +13,7 @@ const socketLink = new WebSocketLink({
 });*/
 
 const httpLink = createUploadLink({
-    uri: 'https://env-3746005.jelastic.metropolia.fi/'
+    uri: 'https://env-3746005.jelastic.metropolia.fi/graphql'
 });
 
 const authLink = setContext(() => {
