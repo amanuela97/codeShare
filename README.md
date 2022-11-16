@@ -1,5 +1,10 @@
 # codeShare
 
+# Demo
+
+![codeShare](https://user-images.githubusercontent.com/44023180/202168897-14fa1998-bc02-4d76-b707-c3d369663abc.gif)
+
+
 # About
 
 this application is for developers to share bits of codes with other developers.
