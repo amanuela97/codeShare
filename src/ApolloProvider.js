@@ -9,7 +9,7 @@ import { setContext } from 'apollo-link-context'
 import { createUploadLink } from 'apollo-upload-client'
 
 const httpLink = createUploadLink({
-  uri: 'https://code-share-apollo-server.herokuapp.com/',
+  uri: 'https://code-share-apollo-server.herokuapp.com/graphql',
 })
 
 const authLink = setContext(() => {
